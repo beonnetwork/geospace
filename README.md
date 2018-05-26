@@ -1,3 +1,3 @@
 # Geospace
 
-Initial smart contracts for buy and transfer geospaces
+Initial smart contracts for buying and transfering geospaces
